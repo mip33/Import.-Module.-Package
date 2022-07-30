@@ -1,3 +1,2 @@
-from application import *
-
-get_emloyees()
+from .application.salary import *
+from .application.db.people import *
